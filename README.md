@@ -35,5 +35,23 @@
 ![DB6](https://user-images.githubusercontent.com/106430549/231754021-63572dd4-df3a-4d3d-a6ff-eeec318df048.jpg)
 
 
+Вибрати усі машини, власники яких народились до 2000 року:
+*Додав клієнту 5 машину в таблиці cars
+
+![DB7](https://user-images.githubusercontent.com/106430549/231757560-c4b9dc2c-e0b8-47e3-8e99-ec44278400bc.jpg)
+
+
+Вибрати імʼя самого взрослого клієнта
+
+![DB8](https://user-images.githubusercontent.com/106430549/231759289-400d8837-7bf3-4bb4-9da7-4627209c0a95.jpg)
+
+
+Показати кількість авто у клієнта з id = 1
+
+![DB9](https://user-images.githubusercontent.com/106430549/231760038-3f8ba796-5cd1-4ec0-8f54-2c15dd137523.jpg)
+
+
+Вивести дані про клієнта з найновішою машиною
+
 
 
