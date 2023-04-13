@@ -53,5 +53,6 @@
 
 Вивести дані про клієнта з найновішою машиною
 
+![DB10](https://user-images.githubusercontent.com/106430549/231764237-211c1bbf-b744-417a-b94d-d5237a59f3d6.jpg)
 
 
